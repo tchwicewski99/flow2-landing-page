@@ -13,6 +13,8 @@
     "tailwindcss": "^4.1.11"
   },
   "dependencies": {
-    "@tailwindcss/cli": "^4.1.11"
+    "@lottiefiles/lottie-player": "^2.0.12",
+    "@tailwindcss/cli": "^4.1.11",
+    "@tailwindplus/elements": "^1.0.4"
   }
 }
